@@ -1,4 +1,9 @@
 * {
     margin: 0;
-    background: darkred;
+    background: #ffffff;
+}
+.logo_header{
+	width: 50%;
+	margin: 2% 2% 0 3%;
+	display: flex;
 }
