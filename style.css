@@ -2,8 +2,34 @@
     margin: 0;
     background: #ffffff;
 }
+.block_header{
+	margin: 2% 2% 0 3%;
+	display: flex;
+}
 .logo_header{
 	width: 50%;
 	margin: 2% 2% 0 3%;
 	display: flex;
+}
+.search_input{
+	width: 50%;
+	margin-right: -40%;
+	margin-top: 3%;
+	display: flex;
+}
+table{
+	margin-left: 6%;
+	margin-top: 2%;
+	border: 1px solid #999999;
+	width: 90%;
+}
+tr td {
+	border: 1px solid #999999;
+}
+tr th{
+	border: 1px solid #999999;
+}
+tr th:hover{
+	background: #003366;
+	font-color:#ffffff;
 }
